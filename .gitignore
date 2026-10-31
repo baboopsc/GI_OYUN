@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Sanal ortam
+venv/
+.venv/
+
+# Otomatik indirilen el modeli
+models/
+
+# Editör / sistem
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
